@@ -1059,7 +1059,9 @@
       "searchTimezone": "搜索时区",
       "noRecords": "没有找到记录",
       "deleteRecurrenceContent": "你想只删除这个事件或整个系列？",
-      "recurrenceDateValidation": "有些月份比所選日期少。在這幾個月中，事件將發生在該月的最後一個日期。"
+      "recurrenceDateValidation": "有些月份比所選日期少。在這幾個月中，事件將發生在該月的最後一個日期。",
+      "scheduler": "调度程序",
+      "resource": "資源"
     },
     "recurrenceeditor": {
       "none": "没有",

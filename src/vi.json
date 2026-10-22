@@ -1057,7 +1057,9 @@
       "expandAllDaySection": "Mở rộng phần cả ngày",
       "collapseAllDaySection": "Thu gọn-cả ngày-phần",
       "searchTimezone": "Múi giờ tìm kiếm",
-      "noRecords": "Không có dữ liệu được tìm thấy"
+      "noRecords": "Không có dữ liệu được tìm thấy",
+      "scheduler": "Trình lập lịch",
+      "resource": "Tài nguyên"
     },
     "recurrenceeditor": {
       "none": "không ai",

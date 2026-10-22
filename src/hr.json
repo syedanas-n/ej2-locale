@@ -1057,7 +1057,9 @@
       "expandAllDaySection": "Proširi-cjelodnevni odjeljak",
       "collapseAllDaySection": "Sažmi cjelodnevni odjeljak",
       "searchTimezone": "Traži vremensku zonu",
-      "noRecords": "Nije pronađen nijedan zapis"
+      "noRecords": "Nije pronađen nijedan zapis",
+      "scheduler": "Raspored",
+      "resource": "Resurs"
     },
     "recurrenceeditor": {
       "none": "nijedan",

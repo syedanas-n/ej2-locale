@@ -1059,7 +1059,9 @@
       "searchTimezone": "समय क्षेत्र खोज्नुहोस्",
       "noRecords": "कुनै रेकर्ड भेटिएन",
       "deleteRecurrenceContent": "तपाईं यो घटना वा सम्पूर्ण शृङ्खला मात्र मेटाउन चाहनुहुन्छ?",
-      "recurrenceDateValidation": "केही महिनाहरूमा चयन गरिएको मिति भन्दा कम छ। "
+      "recurrenceDateValidation": "केही महिनाहरूमा चयन गरिएको मिति भन्दा कम छ। ",
+      "scheduler": "सारणी",
+      "resource": "स्रोत"
     },
     "recurrenceeditor": {
       "none": "कुनै पनि छैन",

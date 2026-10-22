@@ -1057,7 +1057,9 @@
       "expandAllDaySection": "終日展開セクション",
       "collapseAllDaySection": "崩壊-終日-セクション",
       "searchTimezone": "タイムゾーンを検索",
-      "noRecords": "レコードが見つかりません"
+      "noRecords": "レコードが見つかりません",
+      "scheduler": "スケジューラ",
+      "resource": "リソース"
     },
     "recurrenceeditor": {
       "none": "なし",

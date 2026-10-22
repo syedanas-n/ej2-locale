@@ -1059,7 +1059,9 @@
       "searchTimezone": "Zeitzone suchen",
       "noRecords": "Keine Aufzeichnungen gefunden",
       "deleteRecurrenceContent": "Möchten Sie nur dieses Ereignis oder die ganze Serie löschen?",
-      "recurrenceDateValidation": "Einige Monate haben weniger als das ausgewählte Datum. In diesen Monaten fällt das Vorkommen auf das letzte Datum des Monats."
+      "recurrenceDateValidation": "Einige Monate haben weniger als das ausgewählte Datum. In diesen Monaten fällt das Vorkommen auf das letzte Datum des Monats.",
+      "scheduler": "Terminplaner",
+      "resource": "Ressource"
     },
     "recurrenceeditor": {
       "none": "Keiner",

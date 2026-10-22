@@ -1057,7 +1057,9 @@
       "expandAllDaySection": "Seção de expansão para o dia todo",
       "collapseAllDaySection": "Recolher a seção do dia inteiro",
       "searchTimezone": "Pesquisar fuso horário",
-      "noRecords": "Nenhum registro encontrado"
+      "noRecords": "Nenhum registro encontrado",
+      "scheduler": "Agendador",
+      "resource": "Recurso"
     },
     "recurrenceeditor": {
       "none": "Nenhum",

@@ -1059,7 +1059,9 @@
       "searchTimezone": "Zona horaria de búsqueda",
       "noRecords": "No se encontraron registros",
       "deleteRecurrenceContent": "¿Está seguro de que desea eliminar solo este evento o la serie completa?",
-      "recurrenceDateValidation": "Algunos meses tienen menos días a la fecha seleccionada. Para estos meses la ocurrencia de los eventos será en el ultimo día del mes."
+      "recurrenceDateValidation": "Algunos meses tienen menos días a la fecha seleccionada. Para estos meses la ocurrencia de los eventos será en el ultimo día del mes.",
+      "scheduler": "Programador",
+      "resource": "Recurso"
     },
     "recurrenceeditor": {
       "none": "Ninguna",

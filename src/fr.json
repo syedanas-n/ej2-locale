@@ -1059,7 +1059,9 @@
       "searchTimezone": "Rechercher un fuseau horaire",
       "noRecords": "Aucun enregistrement trouvé",
       "deleteRecurrenceContent": "Voulez-vous supprimer uniquement cet événement ou toute la série?",
-      "recurrenceDateValidation": "Certains mois ont moins de jours que la date sélectionnée. Pour ces mois, l'événement aura lieu le dernier jour du mois."
+      "recurrenceDateValidation": "Certains mois ont moins de jours que la date sélectionnée. Pour ces mois, l'événement aura lieu le dernier jour du mois.",
+      "scheduler": "Planificateur",
+      "resource": "Ressource"
     },
     "recurrenceeditor": {
       "none": "Aucun",

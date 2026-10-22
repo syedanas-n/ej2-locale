@@ -1057,7 +1057,9 @@
       "expandAllDaySection": "הרחב את החלק כל היום",
       "collapseAllDaySection": "קטע כווץ כל היום",
       "searchTimezone": "חפש באזור זמן",
-      "noRecords": "לא נמצאו שיאים"
+      "noRecords": "לא נמצאו שיאים",
+      "scheduler": "מתזמן",
+      "resource": "משאב"
     },
     "recurrenceeditor": {
       "none": "אף אחד",

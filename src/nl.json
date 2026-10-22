@@ -1056,7 +1056,9 @@
       "expandAllDaySection": "Uitvouwen-hele dag-sectie",
       "collapseAllDaySection": "Collapse-hele-dag-sectie",
       "searchTimezone": "Zoek tijdzone",
-      "noRecords": "Geen verslagen gevonden"
+      "noRecords": "Geen verslagen gevonden",
+      "scheduler": "Planner",
+      "resource": "Middel"
     },
     "recurrenceeditor": {
       "none": "Geen",

@@ -1057,7 +1057,9 @@
       "expandAllDaySection": "Utvid hele seksjonen",
       "collapseAllDaySection": "Skjul-seksjonen hele dagen",
       "searchTimezone": "Søk etter tidssone",
-      "noRecords": "Ingen opptak funnet"
+      "noRecords": "Ingen opptak funnet",
+      "scheduler": "Planlegger",
+      "resource": "ressurs"
     },
     "recurrenceeditor": {
       "none": "Ingen",
