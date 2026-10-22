@@ -1057,7 +1057,9 @@
       "expandAllDaySection": "Utöka avsnittet hela dagen",
       "collapseAllDaySection": "Dölj-avsnittet hela dagen",
       "searchTimezone": "Sök efter tidszon",
-      "noRecords": "Inga uppgifter funna"
+      "noRecords": "Inga uppgifter funna",
+      "scheduler": "Schemaläggare",
+      "resource": "Resurs"
     },
     "recurrenceeditor": {
       "none": "Ingen",

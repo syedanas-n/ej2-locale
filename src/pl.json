@@ -1057,7 +1057,9 @@
       "expandAllDaySection": "Rozwiń sekcję całodniową",
       "collapseAllDaySection": "Zwiń sekcję całodniową",
       "searchTimezone": "Wyszukaj strefę czasową",
-      "noRecords": "Nie znaleziono żadnych rekordów"
+      "noRecords": "Nie znaleziono żadnych rekordów",
+      "scheduler": "Harmonogram",
+      "resource": "Zasób"
     },
     "recurrenceeditor": {
       "none": "Żaden",

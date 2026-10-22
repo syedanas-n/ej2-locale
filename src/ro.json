@@ -1057,7 +1057,9 @@
       "expandAllDaySection": "Extinde-toată secțiunea",
       "collapseAllDaySection": "Reduceți secțiunea toată ziua",
       "searchTimezone": "Căutați fus orar",
-      "noRecords": "Nu au fost găsite"
+      "noRecords": "Nu au fost găsite",
+      "scheduler": "Planificator",
+      "resource": "Resursă"
     },
     "recurrenceeditor": {
       "none": "Nici unul",

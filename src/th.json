@@ -1057,7 +1057,9 @@
       "expandAllDaySection": "ส่วนขยายทั้งวัน",
       "collapseAllDaySection": "ส่วนยุบตลอดทั้งวัน",
       "searchTimezone": "ค้นหาเขตเวลา",
-      "noRecords": "ไม่พบบันทึก"
+      "noRecords": "ไม่พบบันทึก",
+      "scheduler": "ตัวกำหนดตารางเวลา",
+      "resource": "ทรัพยากร"
     },
     "recurrenceeditor": {
       "none": "ไม่มี",

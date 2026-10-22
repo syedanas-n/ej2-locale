@@ -1057,7 +1057,9 @@
       "expandAllDaySection": "قم بتوسيع القسم طوال اليوم",
       "collapseAllDaySection": "طي القسم طوال اليوم",
       "searchTimezone": "البحث عن المنطقة الزمنية",
-      "noRecords": "لا توجد سجلات"
+      "noRecords": "لا توجد سجلات",
+      "scheduler": "المجدول",
+      "resource": "مصدر"
     },
     "recurrenceeditor": {
       "none": "لا شيء",

@@ -1060,7 +1060,9 @@
       "expandAllDaySection": "하루 종일 섹션 확장",
       "collapseAllDaySection": "하루 종일 축소 섹션",
       "searchTimezone": "시간대 검색",
-      "noRecords": "기록 없음"
+      "noRecords": "기록 없음",
+      "scheduler": "스케줄러",
+      "resource": "자원"
     },
     "recurrenceeditor": {
       "none": "없음",

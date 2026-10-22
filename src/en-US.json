@@ -1059,7 +1059,9 @@
       "searchTimezone": "Search Timezone",
       "noRecords": "No records found",
       "deleteRecurrenceContent": "Do you want to delete only this event or entire series?",
-      "recurrenceDateValidation": "Some months have fewer than the selected date. For these months, the occurrence will fall on the last date of the month."
+      "recurrenceDateValidation": "Some months have fewer than the selected date. For these months, the occurrence will fall on the last date of the month.",
+      "scheduler": "Scheduler",
+      "resource": "Resource"
     },
     "recurrenceeditor": {
       "none": "None",

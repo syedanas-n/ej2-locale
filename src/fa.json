@@ -1057,7 +1057,9 @@
       "expandAllDaySection": "بخش تمام روز را گسترش دهید",
       "collapseAllDaySection": "جمع کردن بخش تمام روز",
       "searchTimezone": "جستجوی منطقه زمانی",
-      "noRecords": "هیچ رکوردی یافت نشد"
+      "noRecords": "هیچ رکوردی یافت نشد",
+      "scheduler": "زمانبند",
+      "resource": "منبع"
     },
     "recurrenceeditor": {
       "none": "هیچ یک",

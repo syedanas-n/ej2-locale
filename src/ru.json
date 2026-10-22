@@ -1057,7 +1057,9 @@
       "expandAllDaySection": "Развернуть-весь-день-раздел",
       "collapseAllDaySection": "Свернуть-весь-день-раздел",
       "searchTimezone": "Поиск часового пояса",
-      "noRecords": "записей не найдено"
+      "noRecords": "записей не найдено",
+      "scheduler": "Планировщик",
+      "resource": "Ресурс"
     },
     "recurrenceeditor": {
       "none": "Никто",

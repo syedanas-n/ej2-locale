@@ -1057,7 +1057,9 @@
       "expandAllDaySection": "Rozbalit celodenní sekci",
       "collapseAllDaySection": "Sbalit celodenní sekci",
       "searchTimezone": "Hledat časové pásmo",
-      "noRecords": "Nenalezeny žádné záznamy"
+      "noRecords": "Nenalezeny žádné záznamy",
+      "scheduler": "Plánovač",
+      "resource": "Zdroj"
     },
     "recurrenceeditor": {
       "none": "Žádný",

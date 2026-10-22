@@ -1057,7 +1057,9 @@
       "expandAllDaySection": "Luaskan bagian sepanjang hari",
       "collapseAllDaySection": "Ciutkan bagian sepanjang hari",
       "searchTimezone": "Cari Zona Waktu",
-      "noRecords": "Tidak ada catatan yang ditemukan"
+      "noRecords": "Tidak ada catatan yang ditemukan",
+      "scheduler": "Penjadwal",
+      "resource": "Sumber daya"
     },
     "recurrenceeditor": {
       "none": "Tidak ada",

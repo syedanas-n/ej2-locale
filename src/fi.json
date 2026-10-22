@@ -1057,7 +1057,9 @@
       "expandAllDaySection": "Laajenna koko päivän jakso",
       "collapseAllDaySection": "Kutista koko päivän jakso",
       "searchTimezone": "Hae aikavyöhykettä",
-      "noRecords": "Merkintöjä ei löydy"
+      "noRecords": "Merkintöjä ei löydy",
+      "scheduler": "Aikatauluttaja",
+      "resource": "voimavara"
     },
     "recurrenceeditor": {
       "none": "Ei mitään",

@@ -1057,7 +1057,9 @@
       "expandAllDaySection": "Bontsa ki az egész napot",
       "collapseAllDaySection": "Összecsukás-egész napos szakasz",
       "searchTimezone": "Időzóna keresése",
-      "noRecords": "Nincs találat"
+      "noRecords": "Nincs találat",
+      "scheduler": "Ütemező",
+      "resource": "Erőforrás"
     },
     "recurrenceeditor": {
       "none": "Egyik sem",

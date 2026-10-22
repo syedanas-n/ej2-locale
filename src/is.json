@@ -1005,7 +1005,9 @@
       "expandAllDaySection": "Stækka-allan daginn-hluta",
       "collapseAllDaySection": "Draga saman-allan daginn-kafla",
       "searchTimezone": "Leitaðu að tímabelti",
-      "noRecords": "Engar færslur fundust"
+      "noRecords": "Engar færslur fundust",
+      "scheduler": "Tímalínur",
+      "resource": "Auðlindur"
     },
     "recurrenceeditor": {
       "none": "Enginn",

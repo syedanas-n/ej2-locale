@@ -1057,7 +1057,9 @@
       "expandAllDaySection": "Tüm gün-bölümü genişlet",
       "collapseAllDaySection": "Tüm gün-bölümü daralt",
       "searchTimezone": "Saat Dilimi Ara",
-      "noRecords": "kayıt bulunamadı"
+      "noRecords": "kayıt bulunamadı",
+      "scheduler": "Zamanlayıcı",
+      "resource": "kaynak"
     },
     "recurrenceeditor": {
       "none": "Yok",
